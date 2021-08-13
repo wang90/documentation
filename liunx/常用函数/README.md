@@ -158,3 +158,8 @@ tar -czvf txt.tar txt
 ```````
 scp -r (source) (target/当前使用.)
 ```````
+
+### 添加用户
+`````
+adduser user
+`````
